@@ -1,0 +1,17 @@
+{
+  "name": "es6-nodejs",
+  "version": "1.0.0",
+  "description": "practice es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aravindh Balakrishnan",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  }
+}
